@@ -1,13 +1,13 @@
 {
-  "main.css": "/mtanzim/textBoxHistoryReactSPA/static/css/main.4722329f.chunk.css",
-  "main.js": "/mtanzim/textBoxHistoryReactSPA/static/js/main.70d22153.chunk.js",
-  "main.js.map": "/mtanzim/textBoxHistoryReactSPA/static/js/main.70d22153.chunk.js.map",
-  "static/js/1.997461a1.chunk.js": "/mtanzim/textBoxHistoryReactSPA/static/js/1.997461a1.chunk.js",
-  "static/js/1.997461a1.chunk.js.map": "/mtanzim/textBoxHistoryReactSPA/static/js/1.997461a1.chunk.js.map",
-  "runtime~main.js": "/mtanzim/textBoxHistoryReactSPA/static/js/runtime~main.fd7824bc.js",
-  "runtime~main.js.map": "/mtanzim/textBoxHistoryReactSPA/static/js/runtime~main.fd7824bc.js.map",
-  "static/css/main.4722329f.chunk.css.map": "/mtanzim/textBoxHistoryReactSPA/static/css/main.4722329f.chunk.css.map",
-  "index.html": "/mtanzim/textBoxHistoryReactSPA/index.html",
-  "precache-manifest.3e4ad862cd72f2169ced86d617b63175.js": "/mtanzim/textBoxHistoryReactSPA/precache-manifest.3e4ad862cd72f2169ced86d617b63175.js",
-  "service-worker.js": "/mtanzim/textBoxHistoryReactSPA/service-worker.js"
+  "main.css": "/textBoxHistoryReactSPA/static/css/main.d5ebb930.chunk.css",
+  "main.js": "/textBoxHistoryReactSPA/static/js/main.f2bbf419.chunk.js",
+  "main.js.map": "/textBoxHistoryReactSPA/static/js/main.f2bbf419.chunk.js.map",
+  "static/js/1.fb6e1c48.chunk.js": "/textBoxHistoryReactSPA/static/js/1.fb6e1c48.chunk.js",
+  "static/js/1.fb6e1c48.chunk.js.map": "/textBoxHistoryReactSPA/static/js/1.fb6e1c48.chunk.js.map",
+  "runtime~main.js": "/textBoxHistoryReactSPA/static/js/runtime~main.02fce11d.js",
+  "runtime~main.js.map": "/textBoxHistoryReactSPA/static/js/runtime~main.02fce11d.js.map",
+  "static/css/main.d5ebb930.chunk.css.map": "/textBoxHistoryReactSPA/static/css/main.d5ebb930.chunk.css.map",
+  "index.html": "/textBoxHistoryReactSPA/index.html",
+  "precache-manifest.5b4d7695f5a09973a235a1f3f9e1ec8c.js": "/textBoxHistoryReactSPA/precache-manifest.5b4d7695f5a09973a235a1f3f9e1ec8c.js",
+  "service-worker.js": "/textBoxHistoryReactSPA/service-worker.js"
 }

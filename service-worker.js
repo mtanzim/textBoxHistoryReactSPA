@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mtanzim/textBoxHistoryReactSPA/precache-manifest.3e4ad862cd72f2169ced86d617b63175.js"
+  "/textBoxHistoryReactSPA/precache-manifest.5b4d7695f5a09973a235a1f3f9e1ec8c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mtanzim/textBoxHistoryReactSPA/index.html", {
+workbox.routing.registerNavigationRoute("/textBoxHistoryReactSPA/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
